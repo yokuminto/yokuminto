@@ -48,10 +48,6 @@
   </tr>
 </table>
 
-## 🔍 个人项目
-
-
-
 ## 📈 活动记录
 
 <div align="center">
