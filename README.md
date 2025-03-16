@@ -48,12 +48,6 @@
   </tr>
 </table>
 
-## 🌟 创作空间
-
-<div align="center">
-  <img src="https://i.imgur.com/aNmJXhw.gif" width="280" alt="编程动画" />
-</div>
-
 ## 🔍 个人项目
 
 
